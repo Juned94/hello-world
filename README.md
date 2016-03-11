@@ -1,2 +1,3 @@
 # hello-world
-i m on my way to becoming a coder
+i m new at git..but will become use to git
+its my 1st stage of learning
